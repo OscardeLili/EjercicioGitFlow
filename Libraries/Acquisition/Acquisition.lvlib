@@ -91,4 +91,5 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Release 1.vi" Type="VI" URL="../Release 1.vi"/>
 </Library>
